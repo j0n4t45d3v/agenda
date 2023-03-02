@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+button{
+    border: 2px solid rgb(121, 121, 121);
+    background-color: lightgray;
+}
